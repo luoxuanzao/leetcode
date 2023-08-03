@@ -1,0 +1,6 @@
+
+›
+java:S1130'"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(…‘”şÿÿÿÿ8³ŞĞÈï0
+›
+java:S1130'"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(…‘”şÿÿÿÿ8´ŞĞÈï0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Õ¥’8Ä×«¬î0

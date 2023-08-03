@@ -1,0 +1,19 @@
+
+g	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¯‘î¯û0
+g	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¯‘î¯û0
+g	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¯‘î¯û0
+™
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(§¥…Ûþÿÿÿÿ8Å‘î¯û0
+™
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ŽîœÄúÿÿÿÿ8Æ‘î¯û0
+”
+java:S1130'"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¢»ïÝ8Ç‘î¯û0
+{
+java:S2142B"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ê‘î¯û0
+T	java:S106A"9Replace this use of System.out or System.err by a logger.(ïÎ´38Ë‘î¯û0
+{
+java:S2142R"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ì‘î¯û0
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(ß®Ü“8Ì‘î¯û0
+{
+java:S2142b"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Í‘î¯û0
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(çž«Í8Í‘î¯û0

@@ -1,0 +1,29 @@
+
+E
+java:S3740&"/Provide the parametrized type for this generic.(ÜÆÚŞ
+J
+java:S3740("/Provide the parametrized type for this generic.(êß¦“şÿÿÿÿ
+E
+java:S37403"/Provide the parametrized type for this generic.(¡ŒÂç
+E
+java:S37403"/Provide the parametrized type for this generic.(¡ŒÂç
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖŞ’Ûøÿÿÿÿ
+S
+java:S4977	"=Rename "T" which hides a type parameter from the outer scope.(‚ú–ğ
+b
+java:S1223%"LRename this method to prevent any misunderstanding or make it a constructor.(İü²ó
+6
+java:S2326"T is not used in the class.(ÖŞ’Ûøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä²Õî
+C
+java:S1185"(Remove this method to simply inherit it.(¢€òÛşÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¯ˆÕ¤
+F
+java:S1481("+Remove this unused "list11" local variable.(êß¦“şÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ğÑİæ
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8šÉï0
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8šÉï0
+Q
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8šÉï0

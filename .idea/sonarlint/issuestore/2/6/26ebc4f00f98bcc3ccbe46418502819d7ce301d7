@@ -1,0 +1,17 @@
+
+e
+java:S2095("OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¦¬«Ë
+k
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(»±»äÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹öõıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÁôâ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œú„÷üÿÿÿÿ
+Z
+java:S2147$"DCombine this catch with the one at line 34, which has the same body.(ï­£Ä
+Z
+java:S21472"DCombine this catch with the one at line 48, which has the same body.(ï­£Ä
+Z
+java:S21474"DCombine this catch with the one at line 48, which has the same body.(ıàÑÎ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(½ú
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÙÁôâ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Œú„÷üÿÿÿÿ

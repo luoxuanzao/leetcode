@@ -1,0 +1,13 @@
+
+h
+java:S3008'"MRename this field "MX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¸ì‹øÿÿÿÿ
+b
+java:S3008("LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú’ç
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ëê„³
+:
+java:S1659:"Declare "n" on a separate line.(Ä‘Æóüÿÿÿÿ
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(é—şæ8ïÈ¼Ÿƒ1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8çè¼Ÿƒ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8çè¼Ÿƒ1

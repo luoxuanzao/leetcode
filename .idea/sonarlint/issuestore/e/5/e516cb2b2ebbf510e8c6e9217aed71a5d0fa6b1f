@@ -1,0 +1,8 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(æÖ”8©…‡åş0
+X	java:S125"<This block of commented-out lines of code should be removed.(Ãé¤8«…‡åş0
+O
+java:S1128"-Remove this unused import 'javafx.util.Pair'.(û­ûºüÿÿÿÿ8¬…‡åş0
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¬…‡åş0

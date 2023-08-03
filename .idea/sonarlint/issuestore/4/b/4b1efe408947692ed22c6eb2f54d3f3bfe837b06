@@ -1,0 +1,19 @@
+
+g	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8±ðî¯û0
+g	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8±ðî¯û0
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÛÖ ¢8²ðî¯û0
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ä“èÕ8¼ðî¯û0
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(…©–×8½ðî¯û0
+{
+java:S21428"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Àðî¯û0
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(õ¯ÆÕ8Àðî¯û0
+{
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Áðî¯û0
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(‡óå¥8Áðî¯û0
+M
+java:S1128"0Remove this unused import 'sun.rmi.runtime.Log'.(ÛÖ ¢8Áðî¯û0
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8Âðî¯û0

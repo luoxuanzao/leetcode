@@ -1,0 +1,6 @@
+
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ðë¡ˆþÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ

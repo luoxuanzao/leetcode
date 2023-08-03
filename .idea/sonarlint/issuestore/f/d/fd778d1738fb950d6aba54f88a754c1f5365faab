@@ -1,0 +1,5 @@
+
+f
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(£¼¥Œúÿÿÿÿ8¥­¬°é0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(œÖª8à¶°é0
+D	java:S108!")Either remove or fill this block of code.(”ã‰G8¹ãµ°é0
